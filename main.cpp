@@ -22,7 +22,7 @@ class Vector{
 
 int main(){
 	
-		std::cout << "Big Brain2\n";
+		std::cout << "Big Brain\n";
 		Vector vec(3);
-		std::cout << vec[3] << '\n';
+		std::cout << vec[2] << '\n';
 }
