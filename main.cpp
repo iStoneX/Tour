@@ -19,7 +19,7 @@ class Vector{
 		double* data;
 		int sz;
 };
-
+//the test lol
 int main(){
 	
 		std::cout << "Big Brain\n";
